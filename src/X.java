@@ -8,6 +8,9 @@
  *
  * @author Estudiante
  */
-public class X {
-    
+public class  x{
+	public static void main(String[] arg)
+	{
+		System.out.println("Hola Mundo como estas,loco");
+	}
 }
